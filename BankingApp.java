@@ -7,6 +7,7 @@ class BankDetails {
 	private String name;
 	private String acc_type;
 	private long balance;
+	int n=0;
 	Scanner sc = new Scanner(System.in);
 
 	// method to open new account
